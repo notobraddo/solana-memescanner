@@ -1,8 +1,8 @@
 """
 ╔══════════════════════════════════════════════════════════════════╗
-║  NDA4 AI AGENT SOLANA TRADING BOT v2.1 (PATCHED)               ║
-║  + Telegram notif: limit hit, TP, SL                            ║
-║  + Laporan 1 jam sync dengan trade running/pending/closed       ║
+║  NDA4 AI AGENT SOLANA TRADING BOT v2.1 (PATCHED)                 ║
+║  + Telegram notif: limit hit, TP, SL                             ║
+║  + Laporan 1 jam sync dengan trade running/pending/closed        ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 PATCH NOTES v2.1:
